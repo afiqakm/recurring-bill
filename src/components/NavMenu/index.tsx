@@ -25,6 +25,10 @@ export function NavMenu() {
     router.refresh();
   };
 
+  if(pathname === "/login") {
+    return null;
+  }
+
   return(
     <div className={styles.container}>
       {LINKS.map((item, idx) => {
