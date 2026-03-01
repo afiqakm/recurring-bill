@@ -1,0 +1,155 @@
+.page {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 16px;
+  display: grid;
+  gap: 12px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+  border-radius: var(--radius);
+  background: linear-gradient(130deg, #dcebe0, #eef6f2);
+  border: 1px solid #cad8cd;
+}
+
+.header h1 {
+  font-size: 1.35rem;
+}
+
+.header p {
+  color: var(--muted);
+}
+
+.linkButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  text-decoration: none;
+}
+
+.panel {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  border-radius: var(--radius);
+  padding: 14px;
+  display: grid;
+  gap: 10px;
+}
+
+.row {
+  display: grid;
+  gap: 8px;
+}
+
+.row input,
+.row select {
+  min-height: 40px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  padding: 8px 10px;
+  background: var(--field-background);
+  color: var(--field-foreground);
+}
+
+.nativeSelect {
+  min-height: 40px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  padding: 8px 10px;
+  background: var(--field-background);
+  color: var(--field-foreground);
+}
+
+.panelTitle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.message {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.mobileList {
+  display: grid;
+  gap: 10px;
+}
+
+.card {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px;
+  background: var(--surface-secondary);
+  display: grid;
+  gap: 6px;
+}
+
+.cardHead {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.table {
+  display: none;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  padding: 10px;
+  text-align: left;
+  border-top: 1px solid var(--separator);
+}
+
+@media (min-width: 840px) {
+  .page {
+    padding: 28px;
+  }
+
+  .row {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    align-items: center;
+  }
+
+  .mobileList {
+    display: none;
+  }
+
+  .table {
+    display: table;
+  }
+}
+
+.count {
+  position: fixed;
+  bottom: 4.5rem;
+  z-index: 100;
+  flex-grow: 1;
+  right: 1rem;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  border-radius: var(--radius);
+  padding: 14px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 12px;
+}

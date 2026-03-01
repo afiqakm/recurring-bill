@@ -1,0 +1,375 @@
+month,name,amount,category,dueDay,paid
+2025-12,ASB,1000.0,Savings / Investment,1.0,False
+2025-12,duit ibu,200.0,Family Transfer,1.0,False
+2025-12,tiktok,77.34,BNPL,1.0,True
+2025-12,SPayLater,202.61,BNPL,1.0,True
+2025-12,Gpaylater,318.22,BNPL,1.0,True
+2025-12,Spotify,24.9,Subscription,2.0,True
+2025-12,Unifi,200.35,Utilities,3.0,True
+2025-12,Celcom,79.5,Utilities,6.0,True
+2025-12,CIMB CPL Loan,54.0,Loan,4.0,True
+2025-12,CIMB Car Loan,992.0,Loan,13.0,True
+2025-12,Maybank Credit Card,1229.87,Credit Card,13.0,True
+2025-12,Bil elektrik,64.1,Utilities,18.0,True
+2025-12,Youtube music,20.9,Subscription,19.0,True
+2025-12,Bil air,18.2,Utilities,20.0,True
+2025-12,Netflix,29.9,Subscription,22.0,True
+2025-11,ASB,1000.0,Savings / Investment,1.0,False
+2025-11,duit ibu,200.0,Family Transfer,1.0,False
+2025-11,tiktok,46.0,BNPL,1.0,True
+2025-11,SPayLater,269.86,BNPL,1.0,True
+2025-11,Gpaylater,375.57,BNPL,1.0,True
+2025-11,Spotify,24.9,Subscription,2.0,True
+2025-11,Unifi,200.35,Utilities,3.0,True
+2025-11,Celcom,81.15,Utilities,5.0,True
+2025-11,CIMB CPL Loan,54.0,Loan,3.0,True
+2025-11,CIMB Car Loan,992.0,Loan,13.0,True
+2025-11,Maybank Credit Card,1271.51,Credit Card,13.0,True
+2025-11,Bil elektrik,64.1,Utilities,18.0,True
+2025-11,Youtube music,20.9,Subscription,19.0,True
+2025-11,Bil air,18.2,Utilities,20.0,True
+2025-11,Netflix,29.9,Subscription,22.0,True
+2025-10,ASB,1000.0,Savings / Investment,1.0,False
+2025-10,duit ibu,200.0,Family Transfer,1.0,False
+2025-10,SPayLater,120.91,BNPL,1.0,True
+2025-10,Gpaylater,410.89,BNPL,1.0,True
+2025-10,Spotify,24.9,Subscription,2.0,True
+2025-10,Unifi,200.35,Utilities,3.0,True
+2025-10,Celcom,76.45,Utilities,6.0,True
+2025-10,CIMB CPL Loan,54.0,Loan,4.0,True
+2025-10,Bil elektrik,64.1,Utilities,18.0,True
+2025-10,CIMB Car Loan,992.0,Loan,13.0,True
+2025-10,Maybank Credit Card,1370.26,Credit Card,14.0,True
+2025-10,Youtube music,20.9,Subscription,19.0,True
+2025-10,Bil air,18.2,Utilities,20.0,True
+2025-10,Netflix,29.9,Subscription,22.0,True
+2025-09,ASB,1000.0,Savings / Investment,1.0,False
+2025-09,duit ibu,200.0,Family Transfer,1.0,False
+2025-09,SPayLater,358.14,BNPL,1.0,True
+2025-09,Gpaylater,395.99,BNPL,1.0,True
+2025-09,Spotify,30.9,Subscription,2.0,True
+2025-09,Unifi,200.35,Utilities,3.0,True
+2025-09,Celcom,74.5,Utilities,4.0,True
+2025-09,CIMB CPL Loan,54.0,Loan,4.0,True
+2025-09,Bil elektrik,45.9,Utilities,10.0,True
+2025-09,CIMB Car Loan,992.0,Loan,13.0,True
+2025-09,Maybank Credit Card,1661.16,Credit Card,13.0,True
+2025-09,Youtube music,17.9,Subscription,18.0,True
+2025-09,Bil air,14.3,Utilities,20.0,True
+2025-08,ASB,1000.0,Savings / Investment,1.0,False
+2025-08,duit ibu,200.0,Family Transfer,1.0,False
+2025-08,SPayLater,308.7,BNPL,1.0,True
+2025-08,Gpaylater,407.04,BNPL,1.0,True
+2025-08,Spotify,26.0,Subscription,2.0,True
+2025-08,Unifi,200.35,Utilities,3.0,True
+2025-08,Celcom,75.35,Utilities,4.0,True
+2025-08,CIMB CPL Loan,54.0,Loan,4.0,True
+2025-08,Bil elektrik,61.25,Utilities,10.0,True
+2025-08,CIMB Car Loan,992.0,Loan,13.0,True
+2025-08,Maybank Credit Card,1724.08,Credit Card,13.0,True
+2025-08,Youtube music,17.9,Subscription,18.0,True
+2025-08,Bil air,14.95,Utilities,20.0,True
+2025-07,duit ibu,200.0,Family Transfer,1.0,False
+2025-07,ASB,1000.0,Savings / Investment,1.0,False
+2025-07,SPayLater,308.7,BNPL,1.0,True
+2025-07,Atome (speaker),207.67,BNPL,2.0,True
+2025-07,Gpaylater,408.71,BNPL,1.0,True
+2025-07,Spotify,26.0,Subscription,2.0,True
+2025-07,Unifi,200.35,Utilities,3.0,True
+2025-07,Celcom,75.35,Utilities,4.0,True
+2025-07,CIMB CPL Loan,54.0,Loan,4.0,True
+2025-07,Bil elektrik,71.25,Utilities,10.0,True
+2025-07,CIMB Car Loan,992.0,Loan,13.0,True
+2025-07,Maybank Credit Card,1117.96,Credit Card,13.0,True
+2025-07,Youtube music,17.9,Subscription,18.0,True
+2025-07,Bil air,14.95,Utilities,20.0,True
+2025-06,ASB,500.0,Savings / Investment,1.0,True
+2025-06,duit ibu,200.0,Family Transfer,1.0,False
+2025-06,Gpaylater,591.91,BNPL,1.0,True
+2025-06,SPayLater,184.01,BNPL,1.0,True
+2025-06,Atome (speaker),207.66,BNPL,2.0,True
+2025-06,Spotify,26.0,Subscription,2.0,True
+2025-06,Unifi,200.35,Utilities,3.0,True
+2025-06,Celcom,75.35,Utilities,4.0,True
+2025-06,CIMB CPL Loan,54.0,Loan,4.0,True
+2025-06,CIMB Car Loan,992.0,Loan,13.0,True
+2025-06,Maybank Credit Card,1682.44,Credit Card,13.0,True
+2025-06,Youtube music,17.9,Subscription,18.0,True
+2025-06,Bil air,15.6,Utilities,20.0,True
+2025-06,Bil elektrik,126.35,Utilities,,True
+2025-06,Atome (Monitor),82.33,BNPL,13.0,True
+2025-05,ASB,500.0,Savings / Investment,1.0,False
+2025-05,duit ibu,200.0,Family Transfer,1.0,False
+2025-05,Gpaylater,230.0,BNPL,1.0,True
+2025-05,SPayLater,151.04,BNPL,1.0,True
+2025-05,Spotify,26.0,Subscription,2.0,True
+2025-05,Unifi,200.35,Utilities,3.0,True
+2025-05,Celcom,94.0,Utilities,4.0,True
+2025-05,CIMB CPL Loan,54.0,Loan,4.0,True
+2025-05,CIMB Car Loan,992.0,Loan,13.0,True
+2025-05,Maybank Credit Card,1587.45,Credit Card,13.0,True
+2025-05,Youtube music,17.9,Subscription,18.0,True
+2025-05,Bil air,14.95,Utilities,20.0,True
+2025-05,Bil elektrik,70.25,Utilities,16.0,True
+2025-05,Atome (Monitor),82.33,BNPL,14.0,True
+2025-04,ASB,500.0,Savings / Investment,1.0,False
+2025-04,duit ibu,200.0,Family Transfer,1.0,False
+2025-04,Gpaylater,220.65,BNPL,1.0,True
+2025-04,Atome (Monitor),82.33,BNPL,14.0,True
+2025-04,SPayLater,151.04,BNPL,1.0,True
+2025-04,Spotify,26.0,Subscription,2.0,True
+2025-04,Unifi,200.35,Utilities,3.0,True
+2025-04,Celcom,75.35,Utilities,4.0,True
+2025-04,CIMB CPL Loan,54.0,Loan,4.0,True
+2025-04,Maybank Credit Card,1544.94,Credit Card,13.0,True
+2025-04,CIMB Car Loan,992.0,Loan,13.0,True
+2025-04,Youtube music,17.9,Subscription,18.0,True
+2025-04,Bil air,16.9,Utilities,20.0,True
+2025-04,Bil elektrik,57.2,Utilities,16.0,True
+2025-03,ASB,500.0,Savings / Investment,1.0,False
+2025-03,duit ibu,200.0,Family Transfer,1.0,False
+2025-03,Gpaylater,274.06,BNPL,1.0,True
+2025-03,SPayLater,191.33,BNPL,1.0,True
+2025-03,Spotify,26.0,Subscription,2.0,True
+2025-03,Unifi,200.35,Utilities,3.0,True
+2025-03,Celcom,75.35,Utilities,4.0,True
+2025-03,CIMB CPL Loan,54.0,Loan,4.0,True
+2025-03,Maybank Credit Card,1389.96,Credit Card,13.0,True
+2025-03,CIMB Car Loan,992.0,Loan,13.0,True
+2025-03,Youtube music,17.9,Subscription,18.0,True
+2025-03,Bil air,89.4,Utilities,20.0,True
+2025-03,Bil elektrik,59.35,Utilities,16.0,True
+2025-03,Atome (full),70.0,BNPL,9.0,True
+2025-02,duit ibu,200.0,Family Transfer,1.0,False
+2025-02,Gpaylater,327.24,BNPL,1.0,True
+2025-02,ASB,500.0,Savings / Investment,1.0,True
+2025-02,SPayLater,257.63,BNPL,1.0,True
+2025-02,Spotify,26.0,Subscription,2.0,True
+2025-02,Unifi,200.35,Utilities,3.0,True
+2025-02,Celcom,75.35,Utilities,4.0,True
+2025-02,CIMB CPL Loan,54.0,Loan,4.0,True
+2025-02,Maybank Credit Card,1140.56,Credit Card,13.0,True
+2025-02,CIMB Car Loan,992.0,Loan,13.0,True
+2025-02,Youtube music,17.9,Subscription,18.0,True
+2025-02,Bil air,27.95,Utilities,20.0,True
+2025-02,Bil elektrik,127.1,Utilities,16.0,True
+2025-01,duit ibu,200.0,Family Transfer,1.0,False
+2025-01,Atome (Monitor),377.33,BNPL,31.0,True
+2025-01,Gpaylater,263.3,BNPL,1.0,True
+2025-01,ASB,500.0,Savings / Investment,1.0,True
+2025-01,SPayLater,624.27,BNPL,1.0,True
+2025-01,Spotify,26.0,Subscription,2.0,True
+2025-01,Unifi,200.35,Utilities,3.0,True
+2025-01,Celcom,75.35,Utilities,4.0,True
+2025-01,CIMB CPL Loan,54.0,Loan,4.0,True
+2025-01,Maybank Credit Card,2152.88,Credit Card,13.0,True
+2025-01,CIMB Car Loan,992.0,Loan,13.0,True
+2025-01,Youtube music,17.9,Subscription,18.0,True
+2025-01,Bil air,27.95,Utilities,20.0,True
+2025-01,Bil elektrik,127.1,Utilities,16.0,True
+2024-12,duit ibu,200.0,Family Transfer,1.0,False
+2024-12,Gpaylater,255.33,BNPL,1.0,True
+2024-12,ASB,500.0,Savings / Investment,1.0,True
+2024-12,SPayLater,475.23,BNPL,1.0,True
+2024-12,Atome (Monitor),377.33,BNPL,1.0,True
+2024-12,Spotify,26.0,Subscription,2.0,True
+2024-12,Unifi,200.35,Utilities,3.0,True
+2024-12,Celcom,75.35,Utilities,4.0,True
+2024-12,CIMB Credit Card,925.68,Credit Card,11.0,True
+2024-12,Maybank Credit Card,1985.0,Credit Card,12.0,True
+2024-12,CIMB Car Loan,992.0,Loan,13.0,True
+2024-12,Youtube music,17.9,Subscription,18.0,True
+2024-12,Bil air,8.45,Utilities,20.0,True
+2024-12,Bil elektrik,61.15,Utilities,17.0,True
+2024-12,grabPayLater (dinner),232.7,BNPL,1.0,True
+2024-11,duit ibu,200.0,Family Transfer,1.0,False
+2024-11,Gpaylater,102.73,BNPL,1.0,True
+2024-11,ASB,500.0,Savings / Investment,1.0,True
+2024-11,SPayLater,471.88,BNPL,1.0,True
+2024-11,Cuckoo,80.0,Utilities,3.0,True
+2024-11,Spotify,26.0,Subscription,3.0,True
+2024-11,Unifi,200.35,Utilities,4.0,True
+2024-11,Celcom,75.35,Utilities,5.0,True
+2024-11,CIMB Credit Card,478.68,Credit Card,12.0,True
+2024-11,Youtube music,17.9,Subscription,19.0,True
+2024-11,Bil air,7.8,Utilities,21.0,True
+2024-11,Bil elektrik,51.35,Utilities,18.0,True
+2024-11,Maybank Credit Card,939.86,Credit Card,13.0,True
+2024-11,CIMB Car Loan,992.0,Loan,13.0,True
+2024-11,duit ibu,200.0,Family Transfer,1.0,False
+2024-11,Gpaylater,125.47,BNPL,1.0,True
+2024-11,ASB,500.0,Savings / Investment,1.0,True
+2024-11,SPayLater,132.44,BNPL,1.0,True
+2024-11,Cuckoo,80.0,Utilities,3.0,True
+2024-11,Spotify,26.0,Subscription,3.0,True
+2024-11,Unifi,200.35,Utilities,4.0,True
+2024-11,Celcom,75.35,Utilities,5.0,True
+2024-11,CIMB Credit Card,356.36,Credit Card,12.0,True
+2024-11,Youtube music,17.9,Subscription,19.0,True
+2024-11,Bil air,19.5,Utilities,21.0,True
+2024-11,Bil elektrik,64.45,Utilities,18.0,True
+2024-11,Maybank Credit Card,1067.71,Credit Card,13.0,True
+2024-11,CIMB Car Loan,992.0,Loan,13.0,True
+2024-09,duit ibu,200.0,Family Transfer,1.0,False
+2024-09,Gpaylater,108.17,BNPL,1.0,True
+2024-09,ASB,400.0,Savings / Investment,1.0,True
+2024-09,ASB RIA,100.0,Savings / Investment,1.0,True
+2024-09,SPayLater,35.09,BNPL,1.0,True
+2024-09,Cuckoo,80.0,Utilities,3.0,True
+2024-09,Spotify,26.0,Subscription,3.0,True
+2024-09,Unifi,200.35,Utilities,4.0,True
+2024-09,Celcom,75.35,Utilities,5.0,True
+2024-09,CIMB Credit Card,1754.01,Credit Card,12.0,True
+2024-09,Youtube music,17.9,Subscription,19.0,True
+2024-09,Bil air,9.75,Utilities,22.0,True
+2024-09,Bil elektrik,129.1,Utilities,19.0,True
+2024-09,Maybank Credit Card,944.06,Credit Card,13.0,True
+2024-09,CIMB Car Loan,992.0,Loan,13.0,True
+2024-08,Gpaylater,90.48,BNPL,1.0,True
+2024-08,ASB,400.0,Savings / Investment,1.0,True
+2024-08,ASB RIA,400.0,Savings / Investment,1.0,True
+2024-08,duit ibu,200.0,Family Transfer,1.0,True
+2024-08,SPayLater,144.54,BNPL,1.0,True
+2024-08,Netflix,55.0,Subscription,2.0,True
+2024-08,Cuckoo,80.0,Utilities,3.0,True
+2024-08,Spotify,25.0,Subscription,3.0,True
+2024-08,Unifi,200.35,Utilities,4.0,True
+2024-08,Celcom,75.35,Utilities,5.0,True
+2024-08,General Credit Card,691.11,Credit Card,12.0,True
+2024-08,Youtube music,17.9,Subscription,19.0,True
+2024-08,Bil air,9.75,Utilities,22.0,True
+2024-08,Bil elektrik,64.7,Utilities,19.0,True
+2024-07,Gpaylater,350.33,BNPL,1.0,True
+2024-07,ASB,400.0,Savings / Investment,1.0,True
+2024-07,ASB RIA,400.0,Savings / Investment,1.0,True
+2024-07,duit ibu,200.0,Family Transfer,1.0,True
+2024-07,SPayLater,190.89,BNPL,1.0,True
+2024-07,Netflix,55.0,Subscription,2.0,True
+2024-07,Cuckoo,80.0,Utilities,3.0,True
+2024-07,Spotify,25.0,Subscription,3.0,True
+2024-07,Unifi,200.35,Utilities,4.0,True
+2024-07,Celcom,74.2,Utilities,5.0,True
+2024-07,General Credit Card,1263.29,Credit Card,12.0,True
+2024-07,Youtube music,17.9,Subscription,19.0,True
+2024-07,Bil air,9.75,Utilities,22.0,True
+2024-07,Bil elektrik,67.25,Utilities,19.0,True
+2024-06,Gpaylater,237.36,BNPL,7.0,True
+2024-06,ASB,400.0,Savings / Investment,1.0,True
+2024-06,ASB RIA,400.0,Savings / Investment,1.0,True
+2024-06,duit ibu,600.0,Family Transfer,1.0,True
+2024-06,SPayLater,190.89,BNPL,1.0,True
+2024-06,Netflix,55.0,Subscription,2.0,True
+2024-06,Cuckoo,80.0,Utilities,3.0,True
+2024-06,Spotify,25.0,Subscription,3.0,True
+2024-06,Unifi,200.35,Utilities,4.0,True
+2024-06,Celcom,74.2,Utilities,5.0,True
+2024-06,General Credit Card,858.15,Credit Card,12.0,True
+2024-06,Youtube music,17.9,Subscription,19.0,True
+2024-06,Bil air,9.1,Utilities,22.0,True
+2024-06,Bil elektrik,53.1,Utilities,19.0,True
+2024-05,Gpaylater,154.3,BNPL,,True
+2024-05,ASB,400.0,Savings / Investment,1.0,True
+2024-05,duit ibu,200.0,Family Transfer,1.0,True
+2024-05,SPayLater,46.35,BNPL,1.0,True
+2024-05,Netflix,55.0,Subscription,2.0,True
+2024-05,Cuckoo,80.0,Utilities,3.0,True
+2024-05,Spotify,25.0,Subscription,3.0,True
+2024-05,Unifi,200.35,Utilities,4.0,True
+2024-05,Celcom,74.2,Utilities,5.0,True
+2024-05,General Credit Card,1111.21,Credit Card,12.0,True
+2024-05,Youtube music,17.9,Subscription,19.0,True
+2024-05,Bil air,11.7,Utilities,22.0,True
+2024-05,Bil elektrik,62.5,Utilities,19.0,True
+2024-04,Gpaylater,157.02,BNPL,,True
+2024-04,ASB,400.0,Savings / Investment,1.0,True
+2024-04,duit ibu,200.0,Family Transfer,1.0,True
+2024-04,StashAway,200.0,Savings / Investment,1.0,True
+2024-04,SPayLater,46.35,BNPL,1.0,True
+2024-04,Netflix,55.0,Subscription,2.0,True
+2024-04,Cuckoo,80.0,Utilities,3.0,True
+2024-04,Spotify,25.0,Subscription,3.0,True
+2024-04,Unifi,213.5,Utilities,4.0,True
+2024-04,Celcom,76.4,Utilities,5.0,True
+2024-04,General Credit Card,1391.79,Credit Card,12.0,True
+2024-04,Youtube music,17.9,Subscription,19.0,True
+2024-04,Bil air,10.4,Utilities,22.0,True
+2024-04,Bil elektrik,53.4,Utilities,19.0,True
+2024-03,Gpaylater,330.9,BNPL,,True
+2024-03,ASB,400.0,Savings / Investment,1.0,True
+2024-03,duit ibu,200.0,Family Transfer,1.0,True
+2024-03,StashAway,200.0,Savings / Investment,1.0,True
+2024-03,SPayLater,52.97,BNPL,1.0,True
+2024-03,Netflix,55.0,Subscription,2.0,True
+2024-03,Cuckoo,80.0,Utilities,3.0,True
+2024-03,Spotify,25.0,Subscription,3.0,True
+2024-03,Unifi,213.5,Utilities,4.0,True
+2024-03,Celcom,63.6,Utilities,5.0,True
+2024-03,General Credit Card,918.57,Credit Card,12.0,True
+2024-03,Youtube music,17.9,Subscription,19.0,True
+2024-03,Bil air,16.15,Utilities,22.0,True
+2024-03,Bil elektrik,57.5,Utilities,19.0,True
+2024-02,ASB,400.0,Savings / Investment,1.0,True
+2024-02,duit ibu,200.0,Family Transfer,1.0,True
+2024-02,StashAway,200.0,Savings / Investment,1.0,True
+2024-02,SPayLater,272.04,BNPL,1.0,True
+2024-02,Netflix,55.0,Subscription,2.0,True
+2024-02,Cuckoo,80.0,Utilities,3.0,True
+2024-02,Spotify,25.0,Subscription,3.0,True
+2024-02,Unifi,168.55,Utilities,4.0,True
+2024-02,Gpaylater,267.27,BNPL,4.0,True
+2024-02,Celcom,63.6,Utilities,5.0,True
+2024-02,Youtube music,17.9,Subscription,19.0,True
+2024-02,General Credit Card,1491.01,Credit Card,12.0,True
+2024-01,SPayLater,225.66,BNPL,1.0,True
+2024-01,Netflix,55.0,Subscription,2.0,True
+2024-01,Cuckoo,80.0,Utilities,3.0,True
+2024-01,Spotify,25.0,Subscription,3.0,True
+2024-01,Unifi,168.55,Utilities,4.0,True
+2024-01,Gpaylater,238.38,BNPL,4.0,True
+2024-01,Celcom,63.6,Utilities,5.0,True
+2024-01,Youtube music,17.9,Subscription,19.0,True
+2024-01,General Credit Card,1625.13,Credit Card,12.0,True
+2023-12,SPayLater,225.66,BNPL,1.0,True
+2023-12,Netflix,55.0,Subscription,2.0,True
+2023-12,Cuckoo,80.0,Utilities,3.0,True
+2023-12,Spotify,24.0,Subscription,3.0,True
+2023-12,Unifi,168.55,Utilities,4.0,True
+2023-12,Gpaylater,172.72,BNPL,4.0,True
+2023-12,Celcom,63.6,Utilities,5.0,True
+2023-12,Youtube music,17.9,Subscription,19.0,True
+2023-12,General Credit Card,1454.03,Credit Card,12.0,True
+2023-12,xbox gamepass + realm minecraft,46.0,Subscription,,True
+2023-11,SPayLater,107.57,BNPL,1.0,True
+2023-11,Netflix,55.0,Subscription,2.0,True
+2023-11,Cuckoo,80.0,Utilities,3.0,True
+2023-11,Spotify,24.0,Subscription,3.0,True
+2023-11,Unifi,168.55,Utilities,4.0,True
+2023-11,Gpaylater,176.7,BNPL,4.0,True
+2023-11,Celcom,63.6,Utilities,5.0,True
+2023-11,Youtube music,17.9,Subscription,19.0,True
+2023-11,General Credit Card,674.29,Credit Card,12.0,True
+2023-10,SPayLater,107.57,BNPL,1.0,True
+2023-10,Netflix,55.0,Subscription,2.0,True
+2023-10,Cuckoo,80.0,Utilities,3.0,True
+2023-10,Spotify,24.0,Subscription,3.0,True
+2023-10,Unifi,168.55,Utilities,4.0,True
+2023-10,Gpaylater,226.0,BNPL,4.0,True
+2023-10,Celcom,63.6,Utilities,5.0,True
+2023-10,Youtube music,17.9,Subscription,19.0,True
+2023-10,General Credit Card,529.8,Credit Card,12.0,True
+2023-09,SPayLater,100.98,BNPL,1.0,True
+2023-09,Netflix,55.0,Subscription,2.0,True
+2023-09,Cuckoo,80.0,Utilities,3.0,True
+2023-09,Spotify,24.0,Subscription,3.0,True
+2023-09,Unifi,168.55,Utilities,4.0,True
+2023-09,Gpaylater,226.0,BNPL,4.0,True
+2023-09,Celcom,63.6,Utilities,5.0,True
+2023-09,General Credit Card,600.0,Credit Card,12.0,True
+2023-09,Youtube music,17.9,Subscription,19.0,True
+2023-08,Netflix,55.0,Subscription,2.0,True
+2023-08,Cuckoo,80.0,Utilities,3.0,True
+2023-08,Spotify,24.0,Subscription,3.0,True
+2023-08,Unifi,168.55,Utilities,4.0,True
+2023-08,Gpaylater,66.3,BNPL,4.0,True
+2023-08,Celcom,63.6,Utilities,5.0,True
+2023-08,Youtube music,17.9,Subscription,19.0,True
